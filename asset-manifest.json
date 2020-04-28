@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anbowe/static/css/main.cd8bb35b.chunk.css",
+    "main.js": "/anbowe/static/js/main.92cb579e.chunk.js",
+    "main.js.map": "/anbowe/static/js/main.92cb579e.chunk.js.map",
+    "runtime-main.js": "/anbowe/static/js/runtime-main.9523d7bf.js",
+    "runtime-main.js.map": "/anbowe/static/js/runtime-main.9523d7bf.js.map",
+    "static/css/2.036b41f9.chunk.css": "/anbowe/static/css/2.036b41f9.chunk.css",
+    "static/js/2.f1a91ba8.chunk.js": "/anbowe/static/js/2.f1a91ba8.chunk.js",
+    "static/js/2.f1a91ba8.chunk.js.map": "/anbowe/static/js/2.f1a91ba8.chunk.js.map",
+    "index.html": "/anbowe/index.html",
+    "precache-manifest.6c5543b7e4c20e38ec65ddd69912a971.js": "/anbowe/precache-manifest.6c5543b7e4c20e38ec65ddd69912a971.js",
+    "service-worker.js": "/anbowe/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/anbowe/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.cd8bb35b.chunk.css.map": "/anbowe/static/css/main.cd8bb35b.chunk.css.map",
+    "static/js/2.f1a91ba8.chunk.js.LICENSE.txt": "/anbowe/static/js/2.f1a91ba8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9523d7bf.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.f1a91ba8.chunk.js",
+    "static/css/main.cd8bb35b.chunk.css",
+    "static/js/main.92cb579e.chunk.js"
+  ]
+}
